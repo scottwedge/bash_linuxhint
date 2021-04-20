@@ -1,0 +1,6 @@
+# What I have learned in this bash scripting course
+
+1. Hello.sh
+- use echo to print to screen
+
+
